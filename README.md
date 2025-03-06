@@ -2,7 +2,7 @@
 
 This resource was straight up generated with the C# Project Generator found in the [Documentation](https://docs.fivem.net/docs/scripting-manual/runtimes/csharp/) with a few tweaks to make it easier for you to understand.
 
-To edit it, either open `MyResource.sln` in Visual Studio or open the whole folder in Visual Studio Code.
+To edit it, either open `SampleResource.sln` in Visual Studio or open the whole folder in Visual Studio Code.
 
 To build it, run `build.cmd`.
 
